@@ -42,8 +42,8 @@ The author representative is a member of the inspecting group who performed the 
 | Total Meeting Effort | 4 person-hours |
 | Actual Rework Effort | Not applicable at this stage |
 | Major Issues | 8 |
-| Minor Issues | 5 |
-| Total Unique Issues | 13 |
+| Minor Issues | 8 |
+| Total Unique Issues | 16 |
 
 
 ## Inspection Process Description
