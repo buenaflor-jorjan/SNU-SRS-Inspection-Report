@@ -1,3 +1,4 @@
+
 # Inspection Issue Log
 
 **Project:**  Grants Management System
@@ -30,5 +31,8 @@
 | 13  | Untracable   | Minor    | 5.2, SI-04                  | They cite secondary codes and vague sources such as 'Applicant evidence'|
 | 14  | Incomplete   | Minor    | 5.2                        | Recovery behavior when external services such as email fail is undefined or may be inconsistent with the functional requirements. |
 | 15  | Incomplete   | Major    | 6.5, 2.2 | Permissions per user class and the authoritative source for role assignment are unresolved.| 
-| 16  | Incomplete   | Minor    | 6.5, SEC-02                 | Whether MFA is mandatory and is undecided for whom. |
+
+---
+
+*Copyright © 2001 by Karl E. Wiegers. Permission is granted to use, modify, and distribute this document.*
 
