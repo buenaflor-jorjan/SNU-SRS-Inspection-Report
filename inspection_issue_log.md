@@ -32,7 +32,3 @@
 | 15  | Incomplete   | Major    | 6.5, 2.2 | Permissions per user class and the authoritative source for role assignment are unresolved.| 
 | 16  | Incomplete   | Minor    | 6.5, SEC-02                 | Whether MFA is mandatory and is undecided for whom. |
 
-
-
----
-*Copyright © 2001 by Karl E. Wiegers. Permission is granted to use, modify, and distribute this document.*
